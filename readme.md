@@ -11,7 +11,7 @@ This project implements a CNN-based image classifier trained from scratch (no pr
 | Metric | Score |
 |--------|-------|
 | Training Accuracy | 99.46% |
-| Test Accuracy | 89.00%- 91.43% |
+| Test Accuracy | 89.06% - 91.43% |
 | Training Loss | 0.0165 |
 
 ## Dataset
